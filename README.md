@@ -3,13 +3,13 @@
 🎓 Currently Pursuing: 🔭 Masters in Business Data Analytics
 
 🛠️ Skills:
-📊 Excel
 🗃️ SQL
 📈 Power BI
 📊 Tableau
 📉 Quantitative Analysis
 📊 Data Analytics
 🐍 Python
+📊 Excel
 📊 R
 
 💬 Ask me about:
