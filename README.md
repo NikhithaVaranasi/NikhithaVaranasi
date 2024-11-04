@@ -18,6 +18,8 @@
 💼 Domain Knowledge:
 📚 Software
 📖 Insurance
+🏥 Healthcare
+🎓 Education
 
 🌱 In My Free Time:
 🌿 Gardening
