@@ -5,9 +5,9 @@
 🛠️ Skills:
 🗃️ SQL
 📈 Power BI
-📊 Tableau
-📉 Quantitative Analysis
-📊 Data Analytics
+📊 .Net Development
+📉 Agile
+📊 C#, Web API
 🐍 Python
 📊 Excel
 📊 R
